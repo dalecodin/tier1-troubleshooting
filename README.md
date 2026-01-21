@@ -1,4 +1,4 @@
-# Tier 1 Troubleshooting Playbook
+# Tier 1 Troubleshooting
 
 This repository documents my **Tier-1 IT troubleshooting process** using realistic help desk tickets.
 
