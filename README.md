@@ -28,7 +28,8 @@ Tickets include:
 
 Screenshots from a ticketing system are included where appropriate to show real world workflow.
 
-![[Pasted image 20260121125421.png]]
+<img width="1919" height="1079" alt="Pasted image 20260121125421" src="https://github.com/user-attachments/assets/790ebed4-635f-4213-a635-751ae25f2b42" />
+
 
 ---
 
