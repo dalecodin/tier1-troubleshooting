@@ -35,34 +35,34 @@ Screenshots from a ticketing system are included where appropriate to show real 
 
 ## Ticket Index
 
-- `01-password-reset-account-lockout.md`  
+- [01-password-reset-account-lockout](https://github.com/dalecodin/tier1-troubleshooting/blob/main/01-password-reset-account-lockoutled.md) 
   Password reset and account lockout due to multiple failed login attempts
 
-- `02-no-internet-wifi.md`  
+- [02-no-internet-wifi](https://github.com/dalecodin/tier1-troubleshooting/blob/main/02-no-internet-wifi.md)
   User unable to access the internet or connect to Wi-Fi
 
-- `03-email-outlook-m365.md`  
+- [03-email-outlook-m365](https://github.com/dalecodin/tier1-troubleshooting/blob/main/03-email-outlook-m365.md)
   Email access and Outlook / Microsoft 365 issues
 
-- `04-software-install-access.md`  
+- [04-software-install-access](https://github.com/dalecodin/tier1-troubleshooting/blob/main/04-software-install-access.md)
   Software installation and access requests
 
-- `05-printer-issues.md`  
+- [05-printer-issues](https://github.com/dalecodin/tier1-troubleshooting/blob/main/05-printer-issues.md)
   Printer connectivity and queue issues
 
-- `06-slow-computer-performance.md`  
+- [06-slow-computer-performance](https://github.com/dalecodin/tier1-troubleshooting/blob/main/06-slow-computer-performance.md)
   Slow system performance and resource usage
 
-- `07-vpn-issues.md`  
+- [07-vpn-issues](https://github.com/dalecodin/tier1-troubleshooting/blob/main/07-vpn-issues.md)
   VPN connection and authentication problems
 
-- `08-hardware-peripherals.md`  
+- [08-hardware-peripherals](https://github.com/dalecodin/tier1-troubleshooting/blob/main/08-hardware-peripherals.md)
   Hardware and peripheral troubleshooting
 
-- `09-file-access-permissions.md`  
+- [09-file-access-permissions](https://github.com/dalecodin/tier1-troubleshooting/blob/main/09-file-access-permissions.md)
   File, folder, and permission access issues
 
-- `10-new-user-onboarding.md`  
+- [10-new-user-onboarding](https://github.com/dalecodin/tier1-troubleshooting/blob/main/10-new-user-onboarding.md)
   New user setup and access provisioning
 
 ---
