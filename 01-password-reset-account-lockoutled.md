@@ -2,7 +2,9 @@
 
 ## Ticket overview
 
-![[Pasted image 20260112085321.png]]
+<img width="1919" height="1079" alt="Pasted image 20260112085321" src="https://github.com/user-attachments/assets/534dadc0-e563-4c6d-8eab-b2daa562b7ed" />
+
+
 
 **User issue:**  
 “I put my password in wrong too many times and now I'm locked out.”
@@ -31,7 +33,8 @@ Confirmed the account was locked due to multiple failed login attempts
 Get-ADUser jsmith01 -Properties LockedOut, PasswordExpired
 ```
 
-![[Pasted image 20260117114651.png]]
+<img width="850" height="374" alt="Pasted image 20260117114651" src="https://github.com/user-attachments/assets/91e8985a-85ba-4635-a331-aada498d7374" />
+
 
 
 ## Step 2: Unlock account
@@ -43,7 +46,8 @@ Unlock-ADAccount -Identity jsmith01
 
 Or you can use the GUI
 
-![[Pasted image 20260117114819.png]]
+<img width="413" height="538" alt="Pasted image 20260117114819" src="https://github.com/user-attachments/assets/2827ddee-3fcf-4447-aa7d-319ecf705486" />
+
 
 ## Step 3: Reset password
 
@@ -54,14 +58,17 @@ Temporary password communicated securely to the user
 Set-ADAccountPassword -Identity jsmith01 -Reset
 ```
 
-![[Pasted image 20260117115140.png]]
+<img width="711" height="97" alt="Pasted image 20260117115140" src="https://github.com/user-attachments/assets/f60dd370-d608-4977-8105-4b26da182256" />
 
-![[Pasted image 20260117115259.png]]
+
+<img width="375" height="114" alt="Pasted image 20260117115259" src="https://github.com/user-attachments/assets/5b336bba-fe93-4a89-a2d5-f88654591505" />
+
 
 ## Step 4: Document and Close the ticket
 
 
-![[Pasted image 20260117120157.png]]
+<img width="1263" height="229" alt="Pasted image 20260117120157" src="https://github.com/user-attachments/assets/bffc8a3c-1de8-4355-b064-ed4fa2d36ecd" />
+
 
 ---
 
