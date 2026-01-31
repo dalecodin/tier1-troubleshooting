@@ -5,13 +5,13 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfe3a2d1-3231-4485-91b4-bdea809cfab9" />
 
 
-User issue:  
+**User issue:**   
 I’m not able to access the internet on my computer. Websites are not loading and I can’t connect to any online services even though my network shows as connected.
 
-Priority:  
+**Priority:**  
 Medium
 
-Impact:  
+**Impact:**   
 User unable to perform web based tasks.
 
 ---
@@ -51,7 +51,7 @@ ping 8.8.8.8
 <img width="848" height="260" alt="image" src="https://github.com/user-attachments/assets/573f2694-4a47-4dd1-a2c8-372cd30cc683" />
 
 
-Result:  
+**Result:**    
 Ping successful. Network connectivity confirmed.
 
 ---
@@ -65,7 +65,7 @@ ping google.com
 <img width="1209" height="69" alt="image" src="https://github.com/user-attachments/assets/7e425ba6-8398-48b1-b173-be2e7c94856a" />
 
 
-Result:  
+**Result:**     
 Ping failed. Domain name could not be resolved. This confirmed a DNS issue.
 
 ---
@@ -79,7 +79,7 @@ Reviewing ipconfig output showed the DNS server was set to an invalid address (1
 ---
 
 ## Root cause  
-Client device was configured with an invalid DNS server, preventing domain name resolution.
+Client device had an invalid DNS server, preventing domain name resolution.
 
 ---
 
@@ -130,3 +130,4 @@ Valid IP with failed domain resolution indicates DNS issues
 `ping 8.8.8.8` confirms network connectivity  
 `ping google.com` tests DNS resolution  
 DNS misconfiguration can fully disrupt internet access even when the network is functioning  
+
