@@ -1,4 +1,4 @@
-# 04 – Software Install Access (Admin Required)
+# 03 – Software Install Access (Admin Required)
 
 ## Ticket overview
 
@@ -72,4 +72,5 @@ Software installation required administrator privileges that the standard user a
 ## Resolution summary
 
 Remoted into the user machine from the domain controller, downloaded the installer, approved elevation with admin credentials, and completed the installation successfully.
+
 
