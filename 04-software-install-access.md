@@ -2,7 +2,8 @@
 
 ## Ticket overview
 
-![ticket-screenshot](ADD_IMAGE_HERE)
+<img width="1918" height="611" alt="image" src="https://github.com/user-attachments/assets/52a72711-5905-498a-974a-b3aa4881b062" />
+
 
 **User issue:**  
 User needs SQL Server installed but cannot install it due to admin permission prompt.
@@ -30,7 +31,8 @@ User cannot proceed with required software setup without IT assistance.
 
 From the domain controller, opened Remote Desktop and connected to the user’s client machine.
 
-![rdp](ADD_IMAGE_HERE)
+`<img width="400" height="492" alt="image" src="https://github.com/user-attachments/assets/24183bfb-4007-4a83-82ab-35425ea819b0" />
+
 
 ---
 
@@ -38,7 +40,8 @@ From the domain controller, opened Remote Desktop and connected to the user’s 
 
 Opened a browser on the user PC, navigated to the Microsoft SQL Server download page, and downloaded the installer.
 
-![download](ADD_IMAGE_HERE)
+<img width="1628" height="854" alt="image" src="https://github.com/user-attachments/assets/17a2e226-c66a-46e0-910e-8a4262f92a53" />
+
 
 ---
 
@@ -46,7 +49,8 @@ Opened a browser on the user PC, navigated to the Microsoft SQL Server download 
 
 When the installer triggered the UAC prompt, entered domain admin credentials to allow the installation to proceed.
 
-![uac](ADD_IMAGE_HERE)
+<img width="453" height="500" alt="image" src="https://github.com/user-attachments/assets/c8d11c9e-5170-43c0-bace-015c35ec9953" />
+
 
 ---
 
@@ -54,7 +58,8 @@ When the installer triggered the UAC prompt, entered domain admin credentials to
 
 Finished the installation process and confirmed setup completed successfully.
 
-![install-finished](ADD_IMAGE_HERE)
+<img width="846" height="674" alt="image" src="https://github.com/user-attachments/assets/1e06e227-2af5-4e1b-9373-685f417ff808" />
+
 
 ---
 
@@ -67,3 +72,4 @@ Software installation required administrator privileges that the standard user a
 ## Resolution summary
 
 Remoted into the user machine from the domain controller, downloaded the installer, approved elevation with admin credentials, and completed the installation successfully.
+
