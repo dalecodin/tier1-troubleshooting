@@ -29,7 +29,7 @@ User cannot proceed with required software setup without IT assistance.
 
 ### Step 1: Remote into user PC from Domain Controller
 
-From the domain controller, opened Remote Desktop and connected to the user’s client machine.
+From my homelab Domain Controller VM, I opened Remote Desktop and connected to my client VM to simulate a helpdesk support session.
 
 `<img width="400" height="492" alt="image" src="https://github.com/user-attachments/assets/24183bfb-4007-4a83-82ab-35425ea819b0" />
 
@@ -72,5 +72,6 @@ Software installation required administrator privileges that the standard user a
 ## Resolution summary
 
 Remoted into the user machine from the domain controller, downloaded the installer, approved elevation with admin credentials, and completed the installation successfully.
+
 
 
