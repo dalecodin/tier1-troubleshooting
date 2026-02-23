@@ -50,18 +50,15 @@ Screenshots from a ticketing system are included where appropriate to show real 
 - [05-file-access-permissions](https://github.com/dalecodin/tier1-troubleshooting/blob/main/05-file-access-permissions.md)
   File, folder, and permission access issues
 
-- [06-new-user-onboarding.md](https://github.com/dalecodin/tier1-troubleshooting/blob/main/06-new-user-onboarding.md)
-  New user setup and access provisioning
 
 ---
 
-## Tools & Technologies Referenced
+## Tools & Technologies 
 
 - Zoho Desk (ticketing system)
 - Active Directory
-- Microsoft 365
-- Windows troubleshooting
-- PowerShell (basic administrative commands)
+- Server Manager
+- PowerShell 
 
 ---
 
@@ -73,10 +70,5 @@ The goal of this project is to demonstrate that I can:
 - Operate within Tier-1 boundaries
 - Provide consistent, professional ticket notes
 
----
 
-## Status
-
-🚧 In progress  
-New tickets are added every few days as part of ongoing skill development.
 
